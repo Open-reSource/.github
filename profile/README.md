@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://openresource.dev/">
-    <img src="https://user-images.githubusercontent.com/17381666/229308663-5e44926f-fa3e-4646-b7cc-cf4819915439.png" alt="Open {re}Source logo" height="80">
+    <img src="https://user-images.githubusercontent.com/17381666/230775291-2f900d5a-5d3b-4f30-86c3-f2dd7714602c.svg" alt="Open {re}Source logo" height="80">
   </a>
 </p>
 
