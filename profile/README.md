@@ -19,3 +19,9 @@
   ·
   <a href="https://discord.gg/fpUDwEMGwE">Discord</a>
 </p>
+
+## Sponsors
+
+<p align="center">
+  <img src='https://cdn.jsdelivr.net/gh/Open-reSource/sponsors/sponsors.svg'/>
+</p>
