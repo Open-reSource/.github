@@ -23,5 +23,7 @@
 ## Sponsors
 
 <p align="center">
-  <img src='https://cdn.jsdelivr.net/gh/Open-reSource/sponsors/sponsors.svg'/>
+  <a href="https://github.com/sponsors/Open-reSource" aria-label="Go to Open {re}Source's GitHub Sponsors page">
+    <img src='https://cdn.jsdelivr.net/gh/Open-reSource/sponsors/sponsors.svg'/>
+  </a>
 </p>
