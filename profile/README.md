@@ -1,4 +1,4 @@
-<p align="center"><a href="https://openresource.dev"><picture><source srcset="header.svg" type="image/svg+xml"><img src="header.png" width="830" alt="Open {re}Source. Open source, {re}explained: how it works, how to contribute, how to run your own project."></picture></a></p>
+<p align="center"><a href="https://openresource.dev"><picture><source srcset="https://raw.githubusercontent.com/Open-reSource/.github/main/profile/header.svg" type="image/svg+xml"><img src="https://raw.githubusercontent.com/Open-reSource/.github/main/profile/header.png" width="830" alt="Open {re}Source. Open source, {re}explained: how it works, how to contribute, how to run your own project."></picture></a></p>
 
 <h1 align="center">Welcome to the <a href="https://openresource.dev/">Open {re}Source</a> community!</h1>
 
